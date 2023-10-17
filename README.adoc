@@ -1,5 +1,4 @@
 = Pacman with CI & CD
-
 == Requirements
 
 DockerHub account: https://www.docker.com/
