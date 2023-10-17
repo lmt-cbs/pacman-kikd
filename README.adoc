@@ -26,6 +26,7 @@ Update `src/main/tekton/github-secret.yaml` with your GitHub username and person
 
 === Tekton resources
 
+
 Update `src/main/tekton/app-resources.yaml` setting the `value` field to the forked repo (your account).
 
 Update `src/main/tekton/build-app-task-run.yaml` changing `lordofthejars` to your docker account username.
